@@ -1,3 +1,225 @@
+commit 894fd6c8e3a6b9991236c6bfd7fb67ac231759cf
+Author: Daria_Khan <tesurus2005@yahoo.com>
+Date:   Sat Mar 29 14:12:56 2025 +0100
+
+    log.txt added
+
+diff --git a/log.txt b/log.txt
+new file mode 100644
+index 0000000..9b517f7
+--- /dev/null
++++ b/log.txt
+@@ -0,0 +1,208 @@
++commit 80f847c26c743589a9f1cae9eecc37594ad38eb8
++Merge: 9215697 00bce06
++Author: Daria_Khan <tesurus2005@yahoo.com>
++Date:   Sat Mar 29 13:08:28 2025 +0100
++
++    Merge branch 'master' of https://github.com/DariaKhan/GitAdvanced
++
++commit 00bce061c70e312eb1c8aae202c857fd6f7ff40f
++Author: DariaKhan <151620933+DariaKhan@users.noreply.github.com>
++Date:   Sat Mar 29 13:05:00 2025 +0100
++
++    Update README.md
++
++commit 3dbf4f7f27178ecb1375c4e7125af4c50b092b0c
++Author: DariaKhan <151620933+DariaKhan@users.noreply.github.com>
++Date:   Sat Mar 29 13:04:17 2025 +0100
++
++    Initial commit
++
++commit 9215697015c845126e0f98f9169ff584c3541b36
++Author: Daria_Khan <tesurus2005@yahoo.com>
++Date:   Sat Mar 29 12:46:37 2025 +0100
++
++    initial commit
++
++///////////////////////////////////////////////////////////////////////////////////////////////////////////////
++
++Changes not staged for commit:
++  (use "git add <file>..." to update what will be committed)
++  (use "git restore <file>..." to discard changes in working directory)
++        modified:   style.css
++
++no changes added to commit (use "git add" and/or "git commit -a")
++PS C:\Users\khand\OneDrive\Desktop\hw> git add .
++PS C:\Users\khand\OneDrive\Desktop\hw> git commit -m "button style changed"
++[master 3407e58] button style changed
++ 1 file changed, 1 deletion(-)
++PS C:\Users\khand\OneDrive\Desktop\hw> git log
++commit 3407e5844aa4c7b5df69c3726ddd1ad72a9289a8 (HEAD -> master)
++Author: Daria_Khan <tesurus2005@yahoo.com>
++Date:   Sat Mar 29 13:48:48 2025 +0100
++
++    button style changed
++
++commit ac0463d723310f927090bdd7905d66f991399438
++Author: Daria_Khan <tesurus2005@yahoo.com>
++Date:   Sat Mar 29 13:47:50 2025 +0100
++
++    font size changed
++
++commit c379e7233e130141e69d2d242cf414ac4fe1a49a
++Author: Daria_Khan <tesurus2005@yahoo.com>
++Date:   Sat Mar 29 13:46:24 2025 +0100
++
++PS C:\Users\khand\OneDrive\Desktop\hw> 
++PS C:\Users\khand\OneDrive\Desktop\hw> git log
++commit 3407e5844aa4c7b5df69c3726ddd1ad72a9289a8 (HEAD -> master)
++Author: Daria_Khan <tesurus2005@yahoo.com>
++Date:   Sat Mar 29 13:48:48 2025 +0100
++
++    button style changed
++
++commit ac0463d723310f927090bdd7905d66f991399438
++Author: Daria_Khan <tesurus2005@yahoo.com>
++Date:   Sat Mar 29 13:47:50 2025 +0100
++
++    font size changed
++
++commit c379e7233e130141e69d2d242cf414ac4fe1a49a
++Author: Daria_Khan <tesurus2005@yahoo.com>
++Date:   Sat Mar 29 13:46:24 2025 +0100
++
++    background changed
++
++commit 80f847c26c743589a9f1cae9eecc37594ad38eb8 (origin/master)
++Merge: 9215697 00bce06
++Author: Daria_Khan <tesurus2005@yahoo.com>
++Date:   Sat Mar 29 13:08:28 2025 +0100
++
++    Merge branch 'master' of https://github.com/DariaKhan/GitAdvanced
++
++commit 00bce061c70e312eb1c8aae202c857fd6f7ff40f
++commit 3407e5844aa4c7b5df69c3726ddd1ad72a9289a8 (HEAD -> master)
++commit 3407e5844aa4c7b5df69c3726ddd1ad72a9289a8 (HEAD -> master)
++Author: Daria_Khan <tesurus2005@yahoo.com>
++Date:   Sat Mar 29 13:48:48 2025 +0100
++
++    button style changed
++
++commit ac0463d723310f927090bdd7905d66f991399438
++Author: Daria_Khan <tesurus2005@yahoo.com>
++Date:   Sat Mar 29 13:47:50 2025 +0100
++
++    font size changed
++
++commit c379e7233e130141e69d2d242cf414ac4fe1a49a
++Author: Daria_Khan <tesurus2005@yahoo.com>
++Date:   Sat Mar 29 13:46:24 2025 +0100
++
++    background changed
++
++commit 80f847c26c743589a9f1cae9eecc37594ad38eb8 (origin/master)
++Merge: 9215697 00bce06
++Author: Daria_Khan <tesurus2005@yahoo.com>
++Date:   Sat Mar 29 13:08:28 2025 +0100
++
++    Merge branch 'master' of https://github.com/DariaKhan/GitAdvanced
++
++commit 00bce061c70e312eb1c8aae202c857fd6f7ff40f
++Author: DariaKhan <151620933+DariaKhan@users.noreply.github.com>
++Date:   Sat Mar 29 13:05:00 2025 +0100
++
++    Update README.md
++
++commit 3dbf4f7f27178ecb1375c4e7125af4c50b092b0c
++Author: DariaKhan <151620933+DariaKhan@users.noreply.github.com>
++Date:   Sat Mar 29 13:04:17 2025 +0100
++
++    Initial commit
++
++commit 9215697015c845126e0f98f9169ff584c3541b36
++Author: Daria_Khan <tesurus2005@yahoo.com>
++Date:   Sat Mar 29 12:46:37 2025 +0100
++
++    initial commit
++PS C:\Users\khand\OneDrive\Desktop\hw> git reset c379e7233e130141e69d2d242cf414ac4fe1a49a --hard
++HEAD is now at c379e72 background changed
++PS C:\Users\khand\OneDrive\Desktop\hw> git reset ac0463d723310f927090bdd7905d66f991399438 --mixed
++Unstaged changes after reset:
++M       style.css
++PS C:\Users\khand\OneDrive\Desktop\hw> git staus 
++git: 'staus' is not a git command. See 'git --help'.
++
++The most similar command is
++        status
++PS C:\Users\khand\OneDrive\Desktop\hw> git status
++On branch master
++Your branch is ahead of 'origin/master' by 2 commits.
++  (use "git push" to publish your local commits)
++
++Changes not staged for commit:
++  (use "git add <file>..." to update what will be committed)
++  (use "git restore <file>..." to discard changes in working directory)
++        modified:   style.css
++
++no changes added to commit (use "git add" and/or "git commit -a")
++PS C:\Users\khand\OneDrive\Desktop\hw> git restore
++fatal: you must specify path(s) to restore
++PS C:\Users\khand\OneDrive\Desktop\hw>  git add .       
++PS C:\Users\khand\OneDrive\Desktop\hw>  git restore
++fatal: you must specify path(s) to restore
++PS C:\Users\khand\OneDrive\Desktop\hw> git ac0463d723310f927090bdd7905d66f991399438 restore
++git: 'ac0463d723310f927090bdd7905d66f991399438' is not a git command. See 'git --help'.
++PS C:\Users\khand\OneDrive\Desktop\hw> git restore ac0463d723310f927090bdd7905d66f991399438
++error: pathspec 'ac0463d723310f927090bdd7905d66f991399438' did not match any file(s) known to git
++PS C:\Users\khand\OneDrive\Desktop\hw> git reset ac0463d723310f927090bdd7905d66f991399438 --mixed
++Unstaged changes after reset:
++M       style.css
++PS C:\Users\khand\OneDrive\Desktop\hw> git restore ac0463d723310f927090bdd7905d66f991399438      
++error: pathspec 'ac0463d723310f927090bdd7905d66f991399438' did not match any file(s) known to git
++PS C:\Users\khand\OneDrive\Desktop\hw> git add .
++PS C:\Users\khand\OneDrive\Desktop\hw> git restore ac0463d723310f927090bdd7905d66f991399438
++error: pathspec 'ac0463d723310f927090bdd7905d66f991399438' did not match any file(s) known to git
++PS C:\Users\khand\OneDrive\Desktop\hw> 
++PS C:\Users\khand\OneDrive\Desktop\hw> git reset 3407e5844aa4c7b5df69c3726ddd1ad72a9289a8 --hard 
++HEAD is now at 3407e58 button style changed
++PS C:\Users\khand\OneDrive\Desktop\hw> git reset 3407e5844aa4c7b5df69c3726ddd1ad72a9289a8 --soft
++PS C:\Users\khand\OneDrive\Desktop\hw> git status
++On branch master
++Your branch is ahead of 'origin/master' by 3 commits.
++  (use "git push" to publish your local commits)
++
++nothing to commit, working tree clean
++PS C:\Users\khand\OneDrive\Desktop\hw> git reset 80f847c26c743589a9f1cae9eecc37594ad38eb8 --hard
++HEAD is now at 80f847c Merge branch 'master' of https://github.com/DariaKhan/GitAdvanced
++PS C:\Users\khand\OneDrive\Desktop\hw> git status
++On branch master
++Your branch is up to date with 'origin/master'.
++
++nothing to commit, working tree clean
++PS C:\Users\khand\OneDrive\Desktop\hw> git push -u origin master
++Everything up-to-date
++branch 'master' set up to track 'origin/master'.
++PS C:\Users\khand\OneDrive\Desktop\hw> git log
++commit 80f847c26c743589a9f1cae9eecc37594ad38eb8 (HEAD -> master, origin/master)
++Merge: 9215697 00bce06
++Author: Daria_Khan <tesurus2005@yahoo.com>
++Date:   Sat Mar 29 13:08:28 2025 +0100
++
++    Merge branch 'master' of https://github.com/DariaKhan/GitAdvanced
++
++commit 00bce061c70e312eb1c8aae202c857fd6f7ff40f
++Author: DariaKhan <151620933+DariaKhan@users.noreply.github.com>
++Date:   Sat Mar 29 13:05:00 2025 +0100
++
++    Update README.md
++
++commit 3dbf4f7f27178ecb1375c4e7125af4c50b092b0c
++Author: DariaKhan <151620933+DariaKhan@users.noreply.github.com>
++Date:   Sat Mar 29 13:04:17 2025 +0100
++
++    Initial commit
++
++commit 9215697015c845126e0f98f9169ff584c3541b36
++Author: Daria_Khan <tesurus2005@yahoo.com>
++Date:   Sat Mar 29 12:46:37 2025 +0100
++
++    initial commit
+\ No newline at end of file
+
 commit 80f847c26c743589a9f1cae9eecc37594ad38eb8
 Merge: 9215697 00bce06
 Author: Daria_Khan <tesurus2005@yahoo.com>
@@ -11,106 +233,15 @@ Date:   Sat Mar 29 13:05:00 2025 +0100
 
     Update README.md
 
-commit 3dbf4f7f27178ecb1375c4e7125af4c50b092b0c
-Author: DariaKhan <151620933+DariaKhan@users.noreply.github.com>
-Date:   Sat Mar 29 13:04:17 2025 +0100
-
-    Initial commit
-
-commit 9215697015c845126e0f98f9169ff584c3541b36
-Author: Daria_Khan <tesurus2005@yahoo.com>
-Date:   Sat Mar 29 12:46:37 2025 +0100
-
-    initial commit
-
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-        modified:   style.css
-
-no changes added to commit (use "git add" and/or "git commit -a")
-PS C:\Users\khand\OneDrive\Desktop\hw> git add .
-PS C:\Users\khand\OneDrive\Desktop\hw> git commit -m "button style changed"
-[master 3407e58] button style changed
- 1 file changed, 1 deletion(-)
-PS C:\Users\khand\OneDrive\Desktop\hw> git log
-commit 3407e5844aa4c7b5df69c3726ddd1ad72a9289a8 (HEAD -> master)
-Author: Daria_Khan <tesurus2005@yahoo.com>
-Date:   Sat Mar 29 13:48:48 2025 +0100
-
-    button style changed
-
-commit ac0463d723310f927090bdd7905d66f991399438
-Author: Daria_Khan <tesurus2005@yahoo.com>
-Date:   Sat Mar 29 13:47:50 2025 +0100
-
-    font size changed
-
-commit c379e7233e130141e69d2d242cf414ac4fe1a49a
-Author: Daria_Khan <tesurus2005@yahoo.com>
-Date:   Sat Mar 29 13:46:24 2025 +0100
-
-PS C:\Users\khand\OneDrive\Desktop\hw> 
-PS C:\Users\khand\OneDrive\Desktop\hw> git log
-commit 3407e5844aa4c7b5df69c3726ddd1ad72a9289a8 (HEAD -> master)
-Author: Daria_Khan <tesurus2005@yahoo.com>
-Date:   Sat Mar 29 13:48:48 2025 +0100
-
-    button style changed
-
-commit ac0463d723310f927090bdd7905d66f991399438
-Author: Daria_Khan <tesurus2005@yahoo.com>
-Date:   Sat Mar 29 13:47:50 2025 +0100
-
-    font size changed
-
-commit c379e7233e130141e69d2d242cf414ac4fe1a49a
-Author: Daria_Khan <tesurus2005@yahoo.com>
-Date:   Sat Mar 29 13:46:24 2025 +0100
-
-    background changed
-
-commit 80f847c26c743589a9f1cae9eecc37594ad38eb8 (origin/master)
-Merge: 9215697 00bce06
-Author: Daria_Khan <tesurus2005@yahoo.com>
-Date:   Sat Mar 29 13:08:28 2025 +0100
-
-    Merge branch 'master' of https://github.com/DariaKhan/GitAdvanced
-
-commit 00bce061c70e312eb1c8aae202c857fd6f7ff40f
-commit 3407e5844aa4c7b5df69c3726ddd1ad72a9289a8 (HEAD -> master)
-commit 3407e5844aa4c7b5df69c3726ddd1ad72a9289a8 (HEAD -> master)
-Author: Daria_Khan <tesurus2005@yahoo.com>
-Date:   Sat Mar 29 13:48:48 2025 +0100
-
-    button style changed
-
-commit ac0463d723310f927090bdd7905d66f991399438
-Author: Daria_Khan <tesurus2005@yahoo.com>
-Date:   Sat Mar 29 13:47:50 2025 +0100
-
-    font size changed
-
-commit c379e7233e130141e69d2d242cf414ac4fe1a49a
-Author: Daria_Khan <tesurus2005@yahoo.com>
-Date:   Sat Mar 29 13:46:24 2025 +0100
-
-    background changed
-
-commit 80f847c26c743589a9f1cae9eecc37594ad38eb8 (origin/master)
-Merge: 9215697 00bce06
-Author: Daria_Khan <tesurus2005@yahoo.com>
-Date:   Sat Mar 29 13:08:28 2025 +0100
-
-    Merge branch 'master' of https://github.com/DariaKhan/GitAdvanced
-
-commit 00bce061c70e312eb1c8aae202c857fd6f7ff40f
-Author: DariaKhan <151620933+DariaKhan@users.noreply.github.com>
-Date:   Sat Mar 29 13:05:00 2025 +0100
-
-    Update README.md
+diff --git a/README.md b/README.md
+index 0f3b2e3..4223a3f 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1,2 @@
+-# GitAdvanced
+\ No newline at end of file
++# GitAdvanced
++The repository was created on the GitHub
 
 commit 3dbf4f7f27178ecb1375c4e7125af4c50b092b0c
 Author: DariaKhan <151620933+DariaKhan@users.noreply.github.com>
@@ -118,91 +249,193 @@ Date:   Sat Mar 29 13:04:17 2025 +0100
 
     Initial commit
 
-commit 9215697015c845126e0f98f9169ff584c3541b36
-Author: Daria_Khan <tesurus2005@yahoo.com>
-Date:   Sat Mar 29 12:46:37 2025 +0100
-
-    initial commit
-PS C:\Users\khand\OneDrive\Desktop\hw> git reset c379e7233e130141e69d2d242cf414ac4fe1a49a --hard
-HEAD is now at c379e72 background changed
-PS C:\Users\khand\OneDrive\Desktop\hw> git reset ac0463d723310f927090bdd7905d66f991399438 --mixed
-Unstaged changes after reset:
-M       style.css
-PS C:\Users\khand\OneDrive\Desktop\hw> git staus 
-git: 'staus' is not a git command. See 'git --help'.
-
-The most similar command is
-        status
-PS C:\Users\khand\OneDrive\Desktop\hw> git status
-On branch master
-Your branch is ahead of 'origin/master' by 2 commits.
-  (use "git push" to publish your local commits)
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-        modified:   style.css
-
-no changes added to commit (use "git add" and/or "git commit -a")
-PS C:\Users\khand\OneDrive\Desktop\hw> git restore
-fatal: you must specify path(s) to restore
-PS C:\Users\khand\OneDrive\Desktop\hw>  git add .       
-PS C:\Users\khand\OneDrive\Desktop\hw>  git restore
-fatal: you must specify path(s) to restore
-PS C:\Users\khand\OneDrive\Desktop\hw> git ac0463d723310f927090bdd7905d66f991399438 restore
-git: 'ac0463d723310f927090bdd7905d66f991399438' is not a git command. See 'git --help'.
-PS C:\Users\khand\OneDrive\Desktop\hw> git restore ac0463d723310f927090bdd7905d66f991399438
-error: pathspec 'ac0463d723310f927090bdd7905d66f991399438' did not match any file(s) known to git
-PS C:\Users\khand\OneDrive\Desktop\hw> git reset ac0463d723310f927090bdd7905d66f991399438 --mixed
-Unstaged changes after reset:
-M       style.css
-PS C:\Users\khand\OneDrive\Desktop\hw> git restore ac0463d723310f927090bdd7905d66f991399438      
-error: pathspec 'ac0463d723310f927090bdd7905d66f991399438' did not match any file(s) known to git
-PS C:\Users\khand\OneDrive\Desktop\hw> git add .
-PS C:\Users\khand\OneDrive\Desktop\hw> git restore ac0463d723310f927090bdd7905d66f991399438
-error: pathspec 'ac0463d723310f927090bdd7905d66f991399438' did not match any file(s) known to git
-PS C:\Users\khand\OneDrive\Desktop\hw> 
-PS C:\Users\khand\OneDrive\Desktop\hw> git reset 3407e5844aa4c7b5df69c3726ddd1ad72a9289a8 --hard 
-HEAD is now at 3407e58 button style changed
-PS C:\Users\khand\OneDrive\Desktop\hw> git reset 3407e5844aa4c7b5df69c3726ddd1ad72a9289a8 --soft
-PS C:\Users\khand\OneDrive\Desktop\hw> git status
-On branch master
-Your branch is ahead of 'origin/master' by 3 commits.
-  (use "git push" to publish your local commits)
-
-nothing to commit, working tree clean
-PS C:\Users\khand\OneDrive\Desktop\hw> git reset 80f847c26c743589a9f1cae9eecc37594ad38eb8 --hard
-HEAD is now at 80f847c Merge branch 'master' of https://github.com/DariaKhan/GitAdvanced
-PS C:\Users\khand\OneDrive\Desktop\hw> git status
-On branch master
-Your branch is up to date with 'origin/master'.
-
-nothing to commit, working tree clean
-PS C:\Users\khand\OneDrive\Desktop\hw> git push -u origin master
-Everything up-to-date
-branch 'master' set up to track 'origin/master'.
-PS C:\Users\khand\OneDrive\Desktop\hw> git log
-commit 80f847c26c743589a9f1cae9eecc37594ad38eb8 (HEAD -> master, origin/master)
-Merge: 9215697 00bce06
-Author: Daria_Khan <tesurus2005@yahoo.com>
-Date:   Sat Mar 29 13:08:28 2025 +0100
-
-    Merge branch 'master' of https://github.com/DariaKhan/GitAdvanced
-
-commit 00bce061c70e312eb1c8aae202c857fd6f7ff40f
-Author: DariaKhan <151620933+DariaKhan@users.noreply.github.com>
-Date:   Sat Mar 29 13:05:00 2025 +0100
-
-    Update README.md
-
-commit 3dbf4f7f27178ecb1375c4e7125af4c50b092b0c
-Author: DariaKhan <151620933+DariaKhan@users.noreply.github.com>
-Date:   Sat Mar 29 13:04:17 2025 +0100
-
-    Initial commit
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..0f3b2e3
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# GitAdvanced
+\ No newline at end of file
 
 commit 9215697015c845126e0f98f9169ff584c3541b36
 Author: Daria_Khan <tesurus2005@yahoo.com>
 Date:   Sat Mar 29 12:46:37 2025 +0100
 
     initial commit
+
+diff --git a/index.html b/index.html
+new file mode 100644
+index 0000000..7f8f3e9
+--- /dev/null
++++ b/index.html
+@@ -0,0 +1,23 @@
++<!DOCTYPE html>
++<html lang="ru">
++<head>
++  <meta charset="UTF-8">
++  <meta name="viewport" content="width=device-width, initial-scale=1.0">
++  <title>Расписание заданий</title>
++  <link rel="stylesheet" href="style.css">
++</head>
++<body>
++  <div class="container">
++    <h1>Мои задания на сегодня</h1>
++
++    <ul id="task-list"></ul>
++
++    <div class="task-input">
++      <input type="text" id="new-task" placeholder="Введите новое задание...">
++      <button id="add-task">Добавить</button>
++    </div>
++  </div>
++
++  <script src="script.js"></script>
++</body>
++</html>
+diff --git a/script.js b/script.js
+new file mode 100644
+index 0000000..e45b558
+--- /dev/null
++++ b/script.js
+@@ -0,0 +1,56 @@
++document.addEventListener('DOMContentLoaded', () => {
++    const taskList = document.getElementById('task-list');
++    const newTaskInput = document.getElementById('new-task');
++    const addTaskButton = document.getElementById('add-task');
++  
++    // Загрузка задач из localStorage
++    let tasks = JSON.parse(localStorage.getItem('tasks')) || [];
++  
++    function saveTasks() {
++      localStorage.setItem('tasks', JSON.stringify(tasks));
++    }
++  
++    function renderTasks() {
++      taskList.innerHTML = '';
++      tasks.forEach((taskText, index) => {
++        const li = createTaskElement(taskText, index);
++        taskList.appendChild(li);
++      });
++    }
++  
++    function createTaskElement(text, index) {
++      const li = document.createElement('li');
++      li.textContent = text;
++  
++      const deleteButton = document.createElement('button');
++      deleteButton.textContent = 'Удалить';
++      deleteButton.classList.add('delete-btn');
++      deleteButton.addEventListener('click', () => {
++        tasks.splice(index, 1);
++        saveTasks();
++        renderTasks();
++      });
++  
++      li.appendChild(deleteButton);
++      return li;
++    }
++  
++    addTaskButton.addEventListener('click', () => {
++      const taskText = newTaskInput.value.trim();
++      if (taskText !== '') {
++        tasks.push(taskText);
++        saveTasks();
++        renderTasks();
++        newTaskInput.value = '';
++      }
++    });
++  
++    newTaskInput.addEventListener('keypress', (e) => {
++      if (e.key === 'Enter') {
++        addTaskButton.click();
++      }
++    });
++  
++    renderTasks();
++  });
++  
+\ No newline at end of file
+diff --git a/style.css b/style.css
+new file mode 100644
+index 0000000..96c42b6
+--- /dev/null
++++ b/style.css
+@@ -0,0 +1,76 @@
++/* style.css */
++
++body {
++    font-family: Arial, sans-serif;
++    background-color: #f2f2f2;
++    margin: 0;
++    padding: 0;
++  }
++  
++  .container {
++    max-width: 500px;
++    margin: 50px auto;
++    background: white;
++    padding: 20px;
++    border-radius: 8px;
++    box-shadow: 0 0 10px rgba(0,0,0,0.1);
++  }
++  
++  h1 {
++    text-align: center;
++    color: #333;
++  }
++  
++  #task-list {
++    list-style-type: none;
++    padding: 0;
++  }
++  
++  #task-list li {
++    display: flex;
++    justify-content: space-between;
++    align-items: center;
++    padding: 10px;
++    border-bottom: 1px solid #ddd;
++  }
++  
++  .task-input {
++    display: flex;
++    margin-top: 20px;
++  }
++  
++  .task-input input {
++    flex: 1;
++    padding: 10px;
++    font-size: 16px;
++    border: 1px solid #ccc;
++    border-radius: 4px 0 0 4px;
++  }
++  
++  .task-input button {
++    padding: 10px 20px;
++    font-size: 16px;
++    border: none;
++    background-color: #28a745;
++    color: white;
++    cursor: pointer;
++    border-radius: 0 4px 4px 0;
++  }
++  
++  .task-input button:hover {
++    background-color: #218838;
++  }
++  
++  .delete-btn {
++    background-color: #dc3545;
++    border: none;
++    color: white;
++    padding: 5px 10px;
++    border-radius: 4px;
++    cursor: pointer;
++  }
++  
++  .delete-btn:hover {
++    background-color: #c82333;
++  }
++  
+\ No newline at end of file
