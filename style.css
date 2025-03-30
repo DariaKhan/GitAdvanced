@@ -2,7 +2,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
+    background-color: gray;
     margin: 0;
     padding: 0;
   }
@@ -62,7 +62,7 @@ body {
   }
   
   .delete-btn {
-    background-color: #dc3545;
+    background-color: blue;
     border: none;
     color: white;
     padding: 5px 10px;
